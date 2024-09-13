@@ -1,19 +1,22 @@
 {
-  "name": "qr-image",
-  "version": "3.2.0",
+  "name": "@hyperwp/qr-image",
+  "version": "1.0.0",
   "description": "QR Code generator (png, svg, pdf, eps)",
-  "homepage": "https://github.com/alexeyten/qr-image",
-  "keywords": [ "qrcode", "qr code", "qr", "png", "svg", "image" ],
-  "author": {
-    "name": "Alexey Ten",
-    "url": "http://git.io/alexeyten"
-  },
+  "homepage": "https://github.com/hyperwp/qr-image",
+  "keywords": [
+    "qrcode",
+    "qr code",
+    "qr",
+    "png",
+    "svg",
+    "image"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexeyten/qr-image.git"
+    "url": "https://github.com/hyperwp/qr-image.git"
   },
-  "bugs": "https://github.com/alexeyten/qr-image/issues",
+  "bugs": "https://github.com/hyperwp/qr-image/issues",
   "main": "./lib/qr.js",
   "scripts": {
     "test": "./tests/test.js"
